@@ -1,5 +1,5 @@
 # TimeSeriesDecomposition
-Script para decomposição de série temporal  
+Script para decomposição de série temporal - Rstudio
 
 Observações sobre séries temporais:      
 - Uma série temporal consiste em um conjunto de observações ordenadas no tempo sobre um determinado fenômeno (variável-alvo). 
