@@ -1,5 +1,5 @@
 # TimeSeriesDecomposition
-Script para decomposição de série temporal - Rstudio
+Script para decomposição de série temporal - Google Colab + Rstudio
 
 Observações sobre séries temporais:      
 - Uma série temporal consiste em um conjunto de observações ordenadas no tempo sobre um determinado fenômeno (variável-alvo). 
@@ -14,3 +14,4 @@ Observações sobre séries temporais:
 
 -- Neste exemplo, realizei a decomposição de uma série temporal climática - a qual contém variáveis de interesse agrônomico para avaliação da produção anual de macieiras.          
 -- O objetivo foi apenas experimental e educacional, buscando realizar testes com o pacote stl () para avaliar o comportamento das séries temporais.
+-- Os dados climáticos foram obtidos do portal INMET (2022)
